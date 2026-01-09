@@ -38,3 +38,6 @@ depend on algorithm sometimes the cipher can get different security levels
 
 ### symmetric and asymmetric 
 this ciphers is the two main types of encryption standard
+
+so symmetric uses same key for  encryption and dencryption 
+so the keys that you wanna encrpt is same ley that you wanna dencrypt
