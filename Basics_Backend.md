@@ -18,6 +18,18 @@ so since the user needs to login for the same password
 System retrieves the user's salt, combines them ("my123passwordc6Fx67fht"), hashes it, and compares the new hash to the stored one. 
 If they match, login succeeds. 
 
+# salt and pepper 
+
+salt is string that you add your password from hashing 
+is a unique and randon characters 
+
+so when we need extra layer of security papper comes 
+papper adds additions security layer in case the database is compromised 
+so the attacker still needs the papper key to crack the password 
+becouse papper is not stored in the database 
+
+you store it hardware security module or enviroment variable 
+
 
 # Encryption Standards 
 
